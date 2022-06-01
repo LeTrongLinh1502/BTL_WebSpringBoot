@@ -19,8 +19,8 @@ Hệ thống gồm 3 phần:
   - [x] Hiển thị các bài viết của Blog
 ### Các phần mềm và công nghệ sử dụng
 #### Các phần mềm sử dụng
--  **Spring Tool Suite 4**: là một trình soạn thảo, biên tập code được phát triển bởi Microsoft, 
-VSCode hỗ trợ rất tốt cho khi phát triển ứng dụng web, đặc biệt là các website được phát triển với JavaScript. Sử dụng để code Front End\
+-  **Spring Tool Suite 4**: Spring Tool Suite (STS) là một công cụ đắc lực cho các lập trình viên khi làm việc với Spring framework. Với Spring Boot, nó cũng không phải là ngoại lệ. Để hỗ trợ cho Spring Boot, STS đã tích hợp với Spring Initializr giúp chúng ta có thể dễ dàng bắt đầu làm việc với Spring Boot. 
+-   **MySQL**:MySQL là một hệ thống quản trị cơ sở dữ liệu mã nguồn mở (gọi tắt là RDBMS) hoạt động theo mô hình client-server. Với RDBMS là viết tắt của Relational Database Management System.
 #### Java framework sử dụng
 -  **Spring Boot**:ể khởi tạo và chạy dự án
 -  **Spring Security**:để mã hóa mật khẩu và xác thực người dùng
