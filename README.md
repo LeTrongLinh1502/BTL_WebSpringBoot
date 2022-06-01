@@ -13,8 +13,9 @@ Hệ thống gồm 3 phần:
   - [x] Bình luận được tất cả các bài viết
 #### Phía admin
   - [x] Quản lý các bài viết ( Thêm, xóa) 
-  - [x] Thêm bài viết mới cho Blog 
   - [x] Quản lý các user (Sửa, Xóa)  
+  - [x] Tìm kiếm bài viết 
+  - [x] Tìm kiếm user
  #### Phía khách(Không có tài khoản)
   - [x] Hiển thị các bài viết của Blog
 ### Các phần mềm và công nghệ sử dụng
@@ -90,5 +91,5 @@ Hệ thống gồm 3 phần:
   - Chức năng comment các bài viết trong Blog
 - Nguyễn Đức Minh
   - Chức năng xóa/ sửa bài viết trong Blog
-  - Hiển thị thông tin các bài viết
+  - Hiển thị thông tin các bài viết của Blog
   
