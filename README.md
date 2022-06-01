@@ -60,13 +60,13 @@ Hệ thống gồm 3 phần:
 ![image](https://user-images.githubusercontent.com/91041371/171366576-59860c12-5f00-4c70-b58d-e3819f474d11.png)
 **Chức năng thêm bài viết** <br>
 ![image](https://user-images.githubusercontent.com/91041371/171368152-322fc9a7-2ce9-46fb-aa8b-bbcb00245b3a.png)
--click vào Send
+-Click vào Send
 ![image](https://user-images.githubusercontent.com/91041371/171368249-ca0e6ccc-e303-4677-8fa5-e9c1d239b237.png)
 
 **Chức năng sửa/xóa bài viết**
 ![image](https://user-images.githubusercontent.com/91041371/171399385-4d4af7b8-acb2-4478-808f-bcb421b1cd44.png)
 
--click vào Edit
+-Click vào Edit
 ![image](https://user-images.githubusercontent.com/91041371/171399511-749fa6a4-a16b-4ac4-91c3-e904fbb68384.png)
 **Chức năng comment bài viết**
 ![image](https://user-images.githubusercontent.com/91041371/171399770-39e747c3-77e5-4a28-bc02-e8da6a8f980d.png)
@@ -75,7 +75,7 @@ Hệ thống gồm 3 phần:
 -Click vào Send để comment
 ![image](https://user-images.githubusercontent.com/91041371/171399903-1e67936b-092e-4716-988c-578b460d1113.png)
 #### Phía Client(không có tài khoản)
--chỉ được xem các bài viết
+-Chỉ được xem các bài viết
 ![image](https://user-images.githubusercontent.com/91041371/171380731-7d081dbc-14b9-4e40-b4e6-a00863d84a01.png)
 
 ## Phân công công việc
