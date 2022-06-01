@@ -38,7 +38,7 @@ Hệ thống gồm 3 phần:
 ![image](https://user-images.githubusercontent.com/91041371/171356444-10b403cf-e76d-4a73-acba-8ba119c7c933.png)
 ## Thiết kế các chức năng
 #### Phía Admin
-**Chức năng quản lý các bài viết** <br>
+**Chức năng quản lý các bài viết**:id,title,author,category,craeted date<br>
 ![image](https://user-images.githubusercontent.com/91041371/171398990-1021d8ff-8b51-4d60-bcea-0ded8dc6acc9.png)
 
 **Chức năng thêm bài viết** <br>
@@ -48,7 +48,7 @@ Hệ thống gồm 3 phần:
 ![image](https://user-images.githubusercontent.com/91041371/171363921-4dc40426-f10e-4ff6-a52d-62b41c634c0f.png)
 -Sửa thông tin user
 ![image](https://user-images.githubusercontent.com/91041371/171364493-fb3884e1-a0be-4f47-b501-7b6372573db4.png)
--xóa user
+-Xóa user
 ![image](https://user-images.githubusercontent.com/91041371/171364606-a2c5e1b5-b906-4d76-b0dd-8bafaae71f62.png)
 ### Chức năng và giao diện
 #### Phía Client(có tài khoản)
