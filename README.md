@@ -46,7 +46,7 @@ VSCode hỗ trợ rất tốt cho khi phát triển ứng dụng web, đặc bi�
 ### Chức năng và giao diện
 #### Phía Client(có tài khoản)
 **GIAO DIỆN TRANG CHỦ** bao gồm danh sách các bài viết của blog
-![image](https://user-images.githubusercontent.com/91041371/171366172-dbdf62d5-7e8b-4891-a71d-7323a5f84919.png)
+![image](https://user-images.githubusercontent.com/91041371/171380476-53062c0b-e65b-4d5e-a1dc-3503e6cada8e.png)
 **GIAO DIỆN ĐĂNG NHẬP** 
 ![image](https://user-images.githubusercontent.com/91041371/171366453-0d941381-773f-43ce-a512-b861228e39dc.png)
 **GIAO DIỆN ĐĂNG KÝ** 
@@ -68,7 +68,7 @@ VSCode hỗ trợ rất tốt cho khi phát triển ứng dụng web, đặc bi�
 ![image](https://user-images.githubusercontent.com/91041371/171367758-b913ed43-35a2-4faa-8221-af1b31f43870.png)
 #### Phía Client(không có tài khoản)
 -chỉ được xem các bài viết
-![image](https://user-images.githubusercontent.com/91041371/171368664-2dd0172d-1808-4a6f-b824-00b802a070f6.png)
+![image](https://user-images.githubusercontent.com/91041371/171380731-7d081dbc-14b9-4e40-b4e6-a00863d84a01.png)
 
 ## Phân công công việc
 - Lê Trọng Linh-leader:
