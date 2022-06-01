@@ -86,7 +86,7 @@ Hệ thống gồm 3 phần:
   - Chức năng đăng nhập ,đăng ký trên giao diện tương tác với Client
   - Phân quyền đối với các tài khoản đăng nhập(ROLE_ADMIN, ROLE_USER ,ROLE_ANONYMOUS)
   - Hướng dẫn chi tiết các thành viên trong team làm các chức năng còn lại trên giao diện thao tác với Client
-- Nguyễn mạnh Tùng
+- Nguyễn Mạnh Tùng
   - Chức năng thêm các bài viết trong Blog
   - Chức năng comment các bài viết trong Blog
 - Nguyễn Đức Minh
