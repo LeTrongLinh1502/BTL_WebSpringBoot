@@ -22,12 +22,17 @@ Hệ thống gồm 3 phần:
 -  **Spring Tool Suite 4**: Spring Tool Suite (STS) là một công cụ đắc lực cho các lập trình viên khi làm việc với Spring framework. Với Spring Boot, nó cũng không phải là ngoại lệ. Để hỗ trợ cho Spring Boot, STS đã tích hợp với Spring Initializr giúp chúng ta có thể dễ dàng bắt đầu làm việc với Spring Boot. 
 -   **MySQL**:MySQL là một hệ thống quản trị cơ sở dữ liệu mã nguồn mở (gọi tắt là RDBMS) hoạt động theo mô hình client-server. Với RDBMS là viết tắt của Relational Database Management System.
 #### Java framework sử dụng
--  **Spring Boot**:ể khởi tạo và chạy dự án
+-  **Spring Boot**:để khởi tạo và chạy dự án
 -  **Spring Security**:để mã hóa mật khẩu và xác thực người dùng
 -  **Spring MVC**:để xây dựng Blog
 -  **Spring DATA**:để thao tác với cơ sở dữ liệu, cụ thể sẽ dùng Spring Data JPA - một thành viên trong gia đình Spring Data
 #### Các công nghệ sử dụng
-- **Spring REST API**
+- **HTML**
+- **CSS**
+- **Javascript**
+- **Spring DATA JPA**
+- **Java Application Servers**
+- **HTTP: Hypertext Transfer Protocol**
 ## Cơ Sở dữ liệu 
 ![image](https://user-images.githubusercontent.com/91041371/171356444-10b403cf-e76d-4a73-acba-8ba119c7c933.png)
 ## Thiết kế các chức năng
