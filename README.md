@@ -3,7 +3,7 @@
 ## Mô tả hệ thống
 ### Khái quát về hệ thống
 Hệ thống gồm 3 phần:
-- Front End: sử dụng HTML,CSS,JS,Bootstrap
+- Front End: sử dụng HTML,CSS,JS
 - Back End: Spring DATA JPA 
 - Cơ sở dữ liệu: MySQL
 ### Các chức năng của hệ thống
