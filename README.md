@@ -33,7 +33,8 @@ VSCode hỗ trợ rất tốt cho khi phát triển ứng dụng web, đặc bi�
 ## Thiết kế các chức năng
 #### Phía Admin
 **Chức năng quản lý các bài viết** <br>
-![image](https://user-images.githubusercontent.com/91041371/171363787-3a2518d8-6c10-46c2-a143-03465e074fe3.png)
+![image](https://user-images.githubusercontent.com/91041371/171398990-1021d8ff-8b51-4d60-bcea-0ded8dc6acc9.png)
+
 **Chức năng thêm bài viết** <br>
 ![image](https://user-images.githubusercontent.com/91041371/171363362-91a43476-e73d-4087-b528-b156650fe16c.png)
 **Chức năng quản lý các user** <br>
@@ -57,15 +58,16 @@ VSCode hỗ trợ rất tốt cho khi phát triển ứng dụng web, đặc bi�
 ![image](https://user-images.githubusercontent.com/91041371/171368249-ca0e6ccc-e303-4677-8fa5-e9c1d239b237.png)
 
 **Chức năng sửa/xóa bài viết**
-![image](https://user-images.githubusercontent.com/91041371/171366912-a3610766-f54e-416a-b36b-6c5112cbb080.png)
+![image](https://user-images.githubusercontent.com/91041371/171399385-4d4af7b8-acb2-4478-808f-bcb421b1cd44.png)
+
 -click vào Edit
-![image](https://user-images.githubusercontent.com/91041371/171366985-604eb767-aff8-456e-9742-d9174fea6435.png)
+![image](https://user-images.githubusercontent.com/91041371/171399511-749fa6a4-a16b-4ac4-91c3-e904fbb68384.png)
 **Chức năng comment bài viết**
-![image](https://user-images.githubusercontent.com/91041371/171367158-ce50081d-1dc5-473b-9cac-33483591dbca.png)
+![image](https://user-images.githubusercontent.com/91041371/171399770-39e747c3-77e5-4a28-bc02-e8da6a8f980d.png)
 -click vào Comment Post
-![image](https://user-images.githubusercontent.com/91041371/171367484-8de012b2-2083-4b25-993e-541d382f91e4.png)
+![image](https://user-images.githubusercontent.com/91041371/171399857-0a91a9ad-dc39-47ba-8dbc-6662229ea9d8.png)
 -Click vào Send để comment
-![image](https://user-images.githubusercontent.com/91041371/171367758-b913ed43-35a2-4faa-8221-af1b31f43870.png)
+![image](https://user-images.githubusercontent.com/91041371/171399903-1e67936b-092e-4716-988c-578b460d1113.png)
 #### Phía Client(không có tài khoản)
 -chỉ được xem các bài viết
 ![image](https://user-images.githubusercontent.com/91041371/171380731-7d081dbc-14b9-4e40-b4e6-a00863d84a01.png)
