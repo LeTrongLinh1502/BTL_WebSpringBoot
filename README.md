@@ -78,18 +78,5 @@ Hệ thống gồm 3 phần:
 -Chỉ được xem các bài viết
 ![image](https://user-images.githubusercontent.com/91041371/171380731-7d081dbc-14b9-4e40-b4e6-a00863d84a01.png)
 
-## Phân công công việc
-- Lê Trọng Linh-leader:
-  - Lên kịch bản chi tiết từng chức năng(vai trò như một designer):Tạo cấu trúc Source Code(các package,các file,các hàm cần sử dụng...)
-  - Tạo CSDL
-  - Trang quản lý của Admin(có các chức năng :thêm,xóa bài viết; thêm,sửa,xóa:user;tìm kiếm: bài viết,user)
-  - Chức năng đăng nhập ,đăng ký trên giao diện tương tác với Client
-  - Phân quyền đối với các tài khoản đăng nhập(ROLE_ADMIN, ROLE_USER ,ROLE_ANONYMOUS)
-  - Hướng dẫn chi tiết các thành viên trong team làm các chức năng còn lại trên giao diện thao tác với Client
-- Nguyễn Mạnh Tùng
-  - Chức năng thêm các bài viết trong Blog
-  - Chức năng comment các bài viết trong Blog
-- Nguyễn Đức Minh
-  - Chức năng xóa/ sửa bài viết trong Blog
-  - Hiển thị thông tin các bài viết của Blog
+
   
